@@ -90,7 +90,7 @@ a {text-decoration:none;}
   background-color: rgba(0, 0, 0, 0.3);
 }
 .background:first-child {
-  background-image: url(../img/bg1.jpg);
+  background-image: url(../img/musical-notes-background-wallpaper-preview.jpg);
   -webkit-transform: translateY(-15vh);
           transform: translateY(-15vh);
 }
@@ -99,16 +99,16 @@ a {text-decoration:none;}
           transform: translateY(15vh);
 }
 .background:nth-child(2) {
-  background-image: url(../img/bg2.jpg);
+  background-image: url(../img/musical-notes-background-wallpaper-preview2.jpg);
 }
 .background:nth-child(3) {
-  background-image: url(../img/bg3.jpg);
+  background-image: url(../img/rosa1.jpg);
 }
 .background:nth-child(4) {
-  background-image: url(../img/bg4.jpg);
+  background-image: url(../img/rosa.jpg);
 }
 .background:nth-child(5) {
-  background-image: url(../img/bg5.jpg);
+  background-image: url(../img/creatividad1.jpg);
 }
 
 /* Set stacking context of slides */
